@@ -1,7 +1,7 @@
 # assessment-app
 A RESTful APL spring-boot application for Apex Systems
 
-This was my first attempt at creating a web services application using Java Spring Boot, AOP, etc. The project is able to upload local files. It can also save the data of a BankMember object that I've created within a storage system. A BankMember consists of two ints and two strings. A JSON example follows below:
+This project is an attempt at creating a web services application using Java Spring Boot, AOP, etc. The project is able to upload local files. It can also save the data of a BankMember object that I've created within a storage system. A BankMember consists of two ints and two strings. A JSON example follows below:
 
 { "id":1,
 "firstName":"Jennifer",
